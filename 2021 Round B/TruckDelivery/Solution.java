@@ -138,6 +138,8 @@ public class Solution {
 
 
 // Java implementation of the approach
+// source code for the java implementation of Segment tree: 
+//      https://www.geeksforgeeks.org/queries-to-update-a-given-index-and-find-gcd-in-range/
 class SegmentTree {
     
   // segment tree
