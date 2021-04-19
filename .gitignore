@@ -1,2 +1,11 @@
 .DS_Store
 *.class
+
+# txt files
+*.txt
+
+# zip files
+*.zip
+
+# vscode
+.vscode/
